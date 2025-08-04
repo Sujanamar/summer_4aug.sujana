@@ -8,5 +8,8 @@ body {
     padding: 8;
 }
 header {
-    
+  background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;  
 
